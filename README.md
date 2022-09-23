@@ -1,6 +1,12 @@
 # SPSGP-58412-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
+
+**Since, There is a miss of PROJECT DOC section in the project workspace, I am attaching the project document in the end of the project.Please do check.
+
+Thank you Sir/Mam. ** 
+
+
 The Grocery Shopping List App
 
 This app works on Kotlin.It uses MVVM Architecture to store the data to be added and deleted from the database.
