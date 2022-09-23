@@ -2,9 +2,14 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 
+
+
 **Since, There is a miss of PROJECT DOC section in the project workspace, I am attaching the project document in the end of the project.Please do check.
 
-Thank you Sir/Mam. ** 
+Thank you Sir/Mam. **
+
+
+
 
 
 The Grocery Shopping List App
